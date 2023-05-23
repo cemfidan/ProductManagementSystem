@@ -9,9 +9,11 @@ namespace Business.Constants
 {
     public static class Messages
     {
-        public static string ProductAdded = "Product Added";
-        public static string ProductNameInvalid = "Product Name is Invalid";
-        public static string MaintenanceTime = "Maintenance Time";
-        public static string ProductsListed = "Products Listed";
+        public static string ProductAdded = "Product added!";
+        public static string ProductNameInvalid = "Product name is invalid!";
+        public static string MaintenanceTime = "Maintenance time!";
+        public static string ProductsListed = "Products listed!";
+        public static string MaxTenProductsInCategory = "There can be a maximum of 10 products in a category!";
+        public static string ProductNameAlreadyExists = "Product name is already exists!";
     }
 }
