@@ -15,5 +15,6 @@ namespace Business.Constants
         public static string ProductsListed = "Products listed!";
         public static string MaxTenProductsInCategory = "There can be a maximum of 10 products in a category!";
         public static string ProductNameAlreadyExists = "Product name is already exists!";
+        public static string CategoryLimitExceded = "Category limit exceded!";
     }
 }
