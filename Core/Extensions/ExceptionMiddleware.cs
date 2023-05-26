@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using FluentValidation.Results;
 using FluentValidation;
+using Microsoft.AspNetCore.Http;
 
 namespace Core.Extensions
 {
